@@ -4,7 +4,7 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 
 const Services = () => {
   return (
-    <div>
+    <div className="h-screen w-screen">
       <div className="flex flex-col items-center">
         <h4 className="text-3xl font-bold text-teal-900">
           Our Premium Services
