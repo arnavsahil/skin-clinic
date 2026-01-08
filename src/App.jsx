@@ -4,7 +4,7 @@ import Services from "./components/Services"
 
 const App = () => {
   return (
-    <div>
+    <div className="relative overflow-x-hidden">
       <Home></Home>
       <Services></Services>
     </div>

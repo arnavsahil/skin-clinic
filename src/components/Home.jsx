@@ -2,7 +2,7 @@ import React from "react";
 import clinicImg from "../assets/clinichome.jpg";
 const Home = () => {
   return (
-    <div className="h-screen w-screen">
+    <div className="h-screen w-screen relative">
       <div className="navbar flex px-10 py-4 justify-between">
         <div className="text-2xl text-teal-700 font-bold">Glamour Spa</div>
         <div className="flex gap-4">
@@ -44,7 +44,7 @@ const Home = () => {
               <p className="text-xs text-gray-600">Happy Clients</p>
             </div>
             <div>
-              <h4 className="text-teal-900 font-bold" >15+</h4>
+              <h4 className="text-teal-900 font-bold">15+</h4>
               <p className="text-xs text-gray-600">Specialists</p>
             </div>
             <div>
