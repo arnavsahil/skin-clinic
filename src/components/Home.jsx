@@ -62,8 +62,8 @@ const Home = () => {
             src={clinicImg}
             className="absolute right-60  z-1 h-80 w-80 rounded-full"
           />
-          <div className="absolute right-80 top-30 w-72 h-72 rounded-full bg-teal-100"></div>
-          <div className="absolute right-36 top-60 w-72 h-72 rounded-full bg-teal-300"></div>
+          <div className="absolute right-80 top-30 w-72 h-72 rounded-full bg-teal-500"></div>
+          <div className="absolute right-36 top-60 w-72 h-72 rounded-full bg-teal-600"></div>
         </div>
       </div>
     </div>

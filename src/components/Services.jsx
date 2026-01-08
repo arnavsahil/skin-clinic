@@ -7,7 +7,7 @@ const Services = () => {
     <div className="h-screen w-screen">
       <div className="flex flex-col items-center">
         <h4 className="text-3xl font-bold text-teal-900">
-          Our Premium Services
+          Our Premium Services  
         </h4>
         <p className="w-2/5 text-sm text-gray-500 text-center">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur,
