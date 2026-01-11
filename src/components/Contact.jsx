@@ -171,7 +171,7 @@ const Contact = () => {
               ></textarea>
             </div>
             <div className="mt-6 px-8">
-              <button className="rounded-4xl text-xs text-white bg-teal-900 px-5 py-3">
+              <button className="rounded-4xl text-xs font-medium text-white bg-teal-900 px-5 py-3">
                 Send Message
               </button>
             </div>

@@ -2,8 +2,8 @@ import React from "react";
 import clinicImg from "../assets/clinichome.jpg";
 const Home = () => {
   return (
-    <div className="h-screen w-screen relative">
-      <div className="navbar flex px-10 py-4 justify-between">
+    <div className="h-screen w-screen">
+      <div className="navbar w-full h-16 bg-[#FAFAD2] fixed top-0 z-50 flex px-10 py-4 justify-between">
         <div className="text-2xl text-teal-700 font-bold">Glamour Spa</div>
         <div className="flex gap-4">
           <h4 className="text-gray-600 text-sm font-medium">Home</h4>
