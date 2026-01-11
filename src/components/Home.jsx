@@ -19,7 +19,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="flex justify-between gap-36 mx-20 my-24">
+      <div className="flex justify-between items-center gap-36 mx-20 my-24">
         <div className="w-1/3 flex flex-col gap-8">
           <h1 className="text-5xl font-bold">
             Enhance Your Natural <span className="text-teal-900">Beauty</span>
